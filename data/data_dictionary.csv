@@ -1,0 +1,12 @@
+wdi_id,feature,unit,transformation
+NY.GDP.PCAP.CD,gdp_per_capita,Current US dollars,log10 for analysis
+NY.GDP.MKTP.KD.ZG,gdp_growth,Annual real growth percent,None
+FP.CPI.TOTL.ZG,inflation,Annual CPI change percent,None
+SL.UEM.TOTL.ZS,unemployment,Percent of labor force,None
+NE.TRD.GNFS.ZS,trade_pct_gdp,Percent of GDP,None
+NE.GDI.TOTL.ZS,capital_formation,Percent of GDP,None
+SP.DYN.LE00.IN,life_expectancy,Years,None; CAF source value flagged
+SP.URB.TOTL.IN.ZS,urban_pop_pct,Percent of population,None
+IT.NET.USER.ZS,internet_users_pct,Percent of population,None
+EG.ELC.ACCS.ZS,electricity_access_pct,Percent of population,None
+SE.SEC.ENRR,secondary_school_enrollment,Gross enrollment percent; may exceed 100,None
